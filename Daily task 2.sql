@@ -1,5 +1,5 @@
-create database dailytasks;
-use dailytasks;
+create database indu;
+use indu;
 -- creating Departments table --
 create table Departments(Deptid int PRIMARY KEY,deptName varchar(10));
 
